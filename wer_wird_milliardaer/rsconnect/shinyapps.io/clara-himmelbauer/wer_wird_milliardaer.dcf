@@ -1,0 +1,12 @@
+name: wer_wird_milliardaer
+title: wer_wird_milliardaer
+username: clara-himmelbauer
+account: clara-himmelbauer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12310287
+bundleId: 8856634
+url: https://clara-himmelbauer.shinyapps.io/wer_wird_milliardaer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
